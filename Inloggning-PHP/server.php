@@ -7,7 +7,7 @@
         echo "Inloggning avklarad";
     }
     else {
-        echo "Fel Lösenord";
+        echo "Inloggning misslyckades";
     }
  }
  else {
